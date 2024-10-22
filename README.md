@@ -12,3 +12,30 @@
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" width="120" height="30"/> </a>  
 
 </p>  
+
+# Abstract
+This study analyzes seismic data from January to February 2023, a period marked by significant earthquake activity in the Middle East, particularly affecting Turkey and Syria. The dataset comprises 9,400 records with 22 attributes, including key geospatial and seismological parameters such as longitude, latitude, magnitude, depth, and error metrics. The analysis focuses on understanding earthquake characteristics and trends over time and space, with specific research questions addressing the depth of earthquakes, changes in frequency and intensity, and regional impacts based on earthquake frequency. A comparative analysis between Syria and Turkey explores differences in seismic activity and their potential implications for future earthquake risks. The study employs geospatial methods to assess the distribution and impact of earthquakes, aiming to provide insights into seismic patterns in the region.
+
+## Data Visualization Key Points:
+
+**1. Temporal Analysis of Earthquake Depths:**
+
+- Time-series plots are used to visualize how the depth of earthquakes varies over the period from January to February 2023.
+- Trend lines to highlight any significant changes in earthquake depth over time.
+
+**2. Geospatial Distribution of Earthquakes:**
+
+- Heatmaps and scatter plots were used on a geographical map to show the spatial distribution of earthquake epicenters across Turkey and Syria.
+
+**3. 3D Globe Visualization:**
+
+In the analysis, a 3D globe visualization was used to map earthquake data, offering an immersive and intuitive way to observe the seismic activity across Turkey and Syria. Key aspects of the 3D globe visualization included:
+
+*1. Latitude, Longitude, and Depth Representation:*
+
+  - Earthquake epicenters were plotted on a 3D globe using latitude and longitude coordinates, while depth was represented by the vertical distance from the Earth's surface.
+  - Color coding was used to indicate earthquake magnitude, with deeper earthquakes shown at varying depths beneath the surface.
+
+
+
+
