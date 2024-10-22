@@ -1,4 +1,4 @@
-# Earthquake-Mapping-Analysis
+# Earthquake Mapping Analysis
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="120" height="30"/> </a>  
@@ -6,4 +6,7 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="120" height="30"/> </a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3 JS" width="120" height="30"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="30"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" width="120" height="30"/> </a>
+<a href="https://python-visualization.github.io/folium/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white" alt="Folium" width="120" height="30"/> </a>
+
 </p>  
